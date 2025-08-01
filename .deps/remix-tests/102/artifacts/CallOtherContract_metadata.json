@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "to",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "x",
+						"type": "uint256"
+					}
+				],
+				"name": "callSetX",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/remix-tests/102/demo06.sol": "CallOtherContract"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/remix-tests/102/demo06.sol": {
+			"keccak256": "0xa4302a5fbee507d5e099f0769b3948d524eda94d4569284c4bbb22e236e99f73",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9c12ce4a0d2da4417093fd37cac9113ef6224220bf1e5d1cd143f77e73e6c292",
+				"dweb:/ipfs/QmYTSsHq2TnZADBxufeT9o6aQYZufQsgQKYjxKA32Qs2Pg"
+			]
+		}
+	},
+	"version": 1
+}

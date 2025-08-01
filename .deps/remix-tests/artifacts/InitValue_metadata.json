@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "deleteFlag",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "flag",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/remix-tests/demo08.sol": "InitValue"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/remix-tests/demo08.sol": {
+			"keccak256": "0x66abee731abf068a09d3f2c25104407167dd25592c19c960c71b8c1d5bffd2df",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://245fbb81eda5f3704992b58d02a78d425b799f3c4dca8059f4ecd2bdf38adf0a",
+				"dweb:/ipfs/Qme3oPDiaBAGpHTX2m5nMcjnB1sk8uWzB2Y7uQiTdJ2uvo"
+			]
+		}
+	},
+	"version": 1
+}

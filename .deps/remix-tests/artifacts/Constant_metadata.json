@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/remix-tests/demo09.sol": "Constant"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/remix-tests/demo09.sol": {
+			"keccak256": "0xbc52273f7d7c4eb57cf5f5a0557fd6c905874ae0b93f3fe034e8cdb0ace7eb73",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://40203eb2ce830a075be4be01eb92525f5af662258f44ba789ff4c086c7603ac4",
+				"dweb:/ipfs/QmTSqD5ARePCd31WqZcr688nji7EhwZZmjZEj1xYgArQb8"
+			]
+		}
+	},
+	"version": 1
+}
